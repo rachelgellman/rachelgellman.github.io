@@ -1,0 +1,50 @@
+
+
+h1{
+    font-size: 45px;
+    margin-left: 100px;
+    line-height: 70%;
+    font-weight:bolder;
+ }
+ 
+ h2{
+     font-size:50px;
+     margin-left: 100px;
+     font-weight: bold;
+     line-height: 1em;
+ }
+
+strong{
+    font-weight: 400;
+}
+
+.sectionhead{
+    color:rgb(0, 0, 0);
+    margin-left: 130px;
+    font-weight:600;
+    font-size:20px;
+}
+
+.overview{
+    font-size: 20px;
+}
+
+p{
+    font-size: 18px;
+    margin: 130px;
+}
+
+hr{
+    margin:130px;
+}
+
+ol{
+    margin:130px;
+    font-size: 18px;
+}
+
+ul{
+    margin:130px;
+    font-size: 18px;
+}
+

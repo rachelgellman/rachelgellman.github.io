@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('proxima-nova-2/Proxima Nova Regular') format('otf'); /* Specify the path to your font file */
+    /* You can also specify font-weight and font-style if applicable */
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('proxima-nova-2/Proxima Nova Bold') format('otf'); /* Specify the path to your font file */
+    /* You can also specify font-weight and font-style if applicable */
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('proxima-nova-2/Proxima Nova Semibold') format('otf'); /* Specify the path to your font file */
+    /* You can also specify font-weight and font-style if applicable */
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('proxima-nova-2/Proxima Nova Light') format('otf'); /* Specify the path to your font file */
+    /* You can also specify font-weight and font-style if applicable */
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('proxima-nova-2/Proxima Nova Thin') format('otf'); /* Specify the path to your font file */
+    /* You can also specify font-weight and font-style if applicable */
+    font-weight:100;
+    font-style: normal;
+}
+
+
+body{
+    font-family: 'ProximaNova', sans-serif;
+    font-size: 16px;
+}
+
+.topnav a {
+    float:right;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+}
+.topnav a:hover {
+  text-decoration: underline;
+}
+
+#name {
+    float:left
+} 
+
+.white{
+    color:white;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.overview {
+    font-size: 30px;
+}
+
+.bottomnav{
+    background-color: rgb(242, 242, 242);
+    color:rgb(82, 82, 82);
+}
+
+.bottomnav a{
+    color:rgb(82, 82, 82);
+}
